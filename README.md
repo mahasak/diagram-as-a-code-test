@@ -1,6 +1,6 @@
-* Diagram as a code test
+# Diagram as a code test
 ---
-** How to run
+## How to run
 - Install pipenv
 
 ```
